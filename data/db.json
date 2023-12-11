@@ -1,0 +1,175 @@
+{
+  "girlgroups": [
+    {
+      "id": 1,
+      "name": "ITZY",
+      "company": "JYP Entertaiment",
+      "imgUrl": "https://studio.mrngroup.co/storage/app/media/Prambors/Editorial%202/ITZY-20230207142906.webp?tr=w-300"
+    },
+    {
+      "id": 2,
+      "name": "aespa",
+      "company": "SM Entertaiment",
+      "imgUrl": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/20/thumbanil-aespa-hyper-line-1743073273.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "LOONA",
+      "company": "Blockberry Creative",
+      "imgUrl": "https://i0.wp.com/img.celebrities.id/okz/900/jN5i78/master_5kI61dq99s_1546_loona.jpg?w=720&ssl=1"
+    },
+    {
+      "id": 4,
+      "name": "(G)I-Dle",
+      "company": "Cube Entertaiment",
+      "imgUrl": "https://imgix.ranker.com/user_node_img/4269/85374730/original/85374730-photo-u5?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=650"
+    },
+    {
+      "name": "Blackpink",
+      "company": "YG Entertaiment",
+      "imgUrl": "https://yt3.googleusercontent.com/hZDUwjoeQqigphL4A1tkg9c6hVp5yXmbboBR7PYFUSFj5PIJSA483NB5v7b0XVoTN9GCku3tqQ=s900-c-k-c0x00ffffff-no-rj",
+      "id": 5
+    },
+    {
+      "name": "TWICE",
+      "company": "JYP Entertaiment",
+      "imgUrl": "https://cdn.antaranews.com/cache/1200x800/2023/03/11/WhatsApp-Image-2023-03-10-at-7.27.13-PM.jpeg",
+      "id": 6
+    },
+    {
+      "name": "NewJeans",
+      "company": "HYBE",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/NewJeans_theMEGASTUDY.jpg",
+      "id": 7
+    },
+    {
+      "name": "IVE",
+      "company": "Starship",
+      "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2022/08/22/ive_43.jpeg?w=600&q=90",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "company": "test",
+      "imgUrl": "tes",
+      "id": 9
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "user1@mail.com",
+      "password": "user1"
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 2
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 3
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 4
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 5
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 6
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 7
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 8
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 9
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 10
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 11
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 12
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 13
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 14
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 15
+    },
+    {
+      "email": "radhea@mail.com",
+      "password": "12345",
+      "id": 16
+    },
+    {
+      "email": "radhea@mail.com",
+      "password": "user1",
+      "id": 17
+    },
+    {
+      "email": "radhea@mail.com",
+      "password": "user1",
+      "id": 18
+    },
+    {
+      "email": "radhea@mail.com",
+      "password": "12345",
+      "id": 19
+    },
+    {
+      "email": "radhea@mail.com",
+      "password": "user1",
+      "id": 20
+    },
+    {
+      "email": "radhea@mail.com",
+      "password": "user1",
+      "id": 21
+    },
+    {
+      "email": "radhea@mail.com",
+      "password": "user1",
+      "id": 22
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "user1",
+      "id": 23
+    }
+  ]
+}
